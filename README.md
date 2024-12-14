@@ -1,1 +1,1 @@
-console
+MERN APP
